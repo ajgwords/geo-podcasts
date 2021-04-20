@@ -31,6 +31,15 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
 * __The Mappyist Hour__
   * [www.themappyisthour.com](http://www.themappyisthour.com)
   * Geographer and Geo types talking about how incredible their profession is "after hours"
+* __Cageyjames & GeoBabbler__
+  * [cng.fireside.fm](https://cng.fireside.fm)
+  * This monthly podcast isn't about interviews or buzzwords, but how to apply spatial technology to your workflows.
+* __Directions Mag__
+  * [player.fm/series/directions-magazine-podcasts](https://player.fm/series/directions-magazine-podcasts)
+  * We engage our audience with information about the latest developments and inspire them to solve global challenges with geospatial technology.
+* __Geodorable__
+  * [player.fm/series/directions-magazine-podcasts](https://player.fm/series/directions-magazine-podcasts)
+  * A podcast that may include anything and everything about the geospatial world. 
 
 ## Space and EO/Geo related
 * __TerraWatch Space__
