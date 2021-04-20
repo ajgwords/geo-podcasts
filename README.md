@@ -26,19 +26,23 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
   *  _Active_
 * __Geospatially__
   * [anchor.fm/geospatially](https://anchor.fm/geospatially)
-  * A podcast about the amazing world of geospatial and people using geospatial technology to innovate and solve problems
+  * A podcast about the amazing world of geospatial and people using geospatial technology to innovate and solve problems.
   *  _Active_
 * __Minds Behind Maps__
   * [minds-behind-maps.simplecast.com](https://minds-behind-maps.simplecast.com)
-  * Informal conversations with those creating maps, understanding how and why they build them
+  * Informal conversations with those creating maps, understanding how and why they build them.
   *  _Active_
 * __Africa GeoConvo__
   * [africageoconvo.com](https://africageoconvo.com)
   * The podcast about geospatial innovations and people doing great things with geospatial technology in Africa.
   *  _Active_
+* __GIS Directions__
+  * [gisdirectionspodcast.podbean.com](https://gisdirectionspodcast.podbean.com)
+  * a dynamic mix of industry banter, lively debate, and interesting opinions on every topic under the geospatial sun.
+  *  _Active_
 * __The Mappyist Hour__
   * [www.themappyisthour.com](http://www.themappyisthour.com)
-  * Geographer and Geo types talking about how incredible their profession is "after hours"
+  * Geographer and Geo types talking about how incredible their profession is "after hours".
   *  _Active_
 * __Cageyjames & GeoBabbler__
   * [cng.fireside.fm](https://cng.fireside.fm)
