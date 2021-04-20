@@ -1,37 +1,40 @@
 # EO, Geo and geo-related podcasts
-A list of EO, Geo and geo-related podcasts
+A list of EO, Geo and geo-related podcasts. Some are more active than others, and all are in different length and content formats and with different audiences. Feel free to add to the list, and enjoy your listening!
 
 ## Earth observation
 * __Scene From Above__
-  * URL
-  * Desc
+  * [scenefromabove.org](https://scenefromabove.org)
+  * A show that brings you informal discussions about the cool things in the world of Earth observation.
 * __Eyes on Earth__
-  * URL
-  * Desc
+  * [www.usgs.gov/centers/eros/science/eyes-earth](https://www.usgs.gov/centers/eros/science/eyes-earth)
+  * Eyes on Earth is a podcast on remote sensing, Earth observation, land change and science, brought to you by the USGS Earth Resources Observation and Science (EROS) Center. 
 
 ## Geospatial
 * __GeoMob__
-  * URL
-  * Desc
+  * [thegeomob.com/podcast/](https://thegeomob.com/podcast/)
+  * We discuss themes from the geo industry, interview Geomob speakers, and provide regular updates about our own projects. We publish a new episode every week.
 * __MapScaping__
-  * URL
-  * Desc
+  * [mapscaping.com/blogs/the-mapscaping-podcast](https://mapscaping.com/blogs/the-mapscaping-podcast)
+  * A podcast for the geospatial community
 * __Very Spatial__
-  * URL
-  * Desc
+  * [veryspatial.com/avsp/](https://veryspatial.com/avsp/)
+  * A Very Spatial Podcast is your weekly source for information on Geography and geospatial technologies. Geography touches most things we do everyday, but we rarely even think of it. This podcast seeks to point out how Geography and geospatial technologies is filtering into our digital lives and daily lives.
 * __Geospatially__
-  * URL
-  * Desc
+  * [anchor.fm/geospatially](https://anchor.fm/geospatially)
+  * A podcast about the amazing world of geospatial and people using geospatial technology to innovate and solve problems
 * __Minds Behind Maps__
-  * URL
-  * Desc
+  * [minds-behind-maps.simplecast.com](https://minds-behind-maps.simplecast.com)
+  * Informal conversations with those creating maps, understanding how and why they build them
 * __Africa GeoConvo__
-  * URL
-  * Desc
+  * [africageoconvo.com](https://africageoconvo.com)
+  * The podcast about geospatial innovations and people doing great things with geospatial technology in Africa.
+* __The Mappyist Hour__
+  * [www.themappyisthour.com](http://www.themappyisthour.com)
+  * Geographer and Geo types talking about how incredible their profession is "after hours"
 
 ## Space and EO/Geo related
 * __TerraWatch Space__
-  * URL
-  * Desc
+  * [terrawatchspace.buzzsprout.com](https://terrawatchspace.buzzsprout.com)
+  * Decoding space technologies and their impact on Earth - for everyone outside the space bubble.
 
 
