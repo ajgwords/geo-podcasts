@@ -60,9 +60,13 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
   * [terrawatchspace.buzzsprout.com](https://terrawatchspace.buzzsprout.com)
   * Decoding space technologies and their impact on Earth - for everyone outside the space bubble.
   *  _Active_
+* __On Orbit__
+  * [soundcloud.com/user-903466448](https://soundcloud.com/user-903466448)
+  * a problem-solving podcast, with a mission to educate listeners on the real human value of space and satellite technology and works to answer, “What’s your business in space?”.
+  *  _Active_
 * __In Orbit__
   * [sa.catapult.org.uk/podcasts/](https://sa.catapult.org.uk/podcasts/)
-  * Discuissions on a variety of topics linked to satellites.
+  * Discussions on a variety of topics linked to satellites.
   *  _Active_
 
 
