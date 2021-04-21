@@ -57,7 +57,7 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
 
 ## Space and EO/Geo related
 * __TerraWatch Space__
-  * [terrawatchspace.buzzsprout.com](https://terrawatchspace.buzzsprout.com)
+  * [anchor.fm/terrawatch-space](https://anchor.fm/terrawatch-space)
   * Decoding space technologies and their impact on Earth - for everyone outside the space bubble.
   *  _Active_
 * __On Orbit__
