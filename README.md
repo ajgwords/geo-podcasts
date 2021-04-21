@@ -10,6 +10,10 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
   * [www.usgs.gov/centers/eros/science/eyes-earth](https://www.usgs.gov/centers/eros/science/eyes-earth)
   * Eyes on Earth is a podcast on remote sensing, Earth observation, land change and science, brought to you by the USGS Earth Resources Observation and Science (EROS) Center. 
   *  _Active_
+* __RSPSoc Experiences__
+  * [www.youtube.com/channel/UCwXAnNm8bOW966ug6ZktOaA/videos](https://www.youtube.com/channel/UCwXAnNm8bOW966ug6ZktOaA/videos)
+  * For the benefit of any early career EO/photogrammetry/remote-sensing types who are interested to #getintoEO and wonder what kind of career paths people have, on their way into this industry.. 
+  *  _Active_
 
 ## Geospatial
 * __GeoMob__
@@ -62,12 +66,9 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
   *  _Active_
 * __On Orbit__
   * [soundcloud.com/user-903466448](https://soundcloud.com/user-903466448)
-  * a problem-solving podcast, with a mission to educate listeners on the real human value of space and satellite technology and works to answer, “What’s your business in space?”.
+  * A problem-solving podcast, with a mission to educate listeners on the real human value of space and satellite technology and works to answer, “What’s your business in space?”.
   *  _Active_
 * __In Orbit__
   * [sa.catapult.org.uk/podcasts/](https://sa.catapult.org.uk/podcasts/)
   * Discussions on a variety of topics linked to satellites.
   *  _Active_
-
-
-
