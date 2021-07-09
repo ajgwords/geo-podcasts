@@ -58,6 +58,9 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
 * __Geodorable__
   * [geodorable.com](https://geodorable.com)
   * A podcast that may include anything and everything about the geospatial world. 
+* __GeoGeeks At Home__
+  * [https://podcasts.apple.com/ca/podcast/geogeeks-at-home/id1504558359](https://podcasts.apple.com/ca/podcast/geogeeks-at-home/id1504558359)
+  *  _Active_
 
 ## Space and EO/Geo related
 * __TerraWatch Space__
