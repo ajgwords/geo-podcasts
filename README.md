@@ -29,7 +29,7 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
   * A Very Spatial Podcast is your weekly source for information on Geography and geospatial technologies. Geography touches most things we do everyday, but we rarely even think of it. This podcast seeks to point out how Geography and geospatial technologies is filtering into our digital lives and daily lives.
   *  _Active_
 * __Geospatially__
-  * [anchor.fm/geospatially](https://anchor.fm/geospatially)
+  * [https://open.spotify.com/show/7aqyurtRoF42hTysOqNa9v?si=a99b6424ff874292](https://open.spotify.com/show/7aqyurtRoF42hTysOqNa9v?si=a99b6424ff874292)
   * A podcast about the amazing world of geospatial and people using geospatial technology to innovate and solve problems.
   *  _Active_
 * __Minds Behind Maps__
