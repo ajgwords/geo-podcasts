@@ -13,7 +13,6 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
 * __RSPSoc Experiences__
   * [www.youtube.com/channel/UCwXAnNm8bOW966ug6ZktOaA/videos](https://www.youtube.com/channel/UCwXAnNm8bOW966ug6ZktOaA/videos)
   * For the benefit of any early career EO/photogrammetry/remote-sensing types who are interested to #getintoEO and wonder what kind of career paths people have, on their way into this industry.. 
-  *  _Active_
 
 ## Geospatial
 * __GeoMob__
