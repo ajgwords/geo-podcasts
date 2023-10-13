@@ -1,18 +1,14 @@
 # EO, Geo and geo-related podcasts
-A list of EO, Geo and geo-related podcasts. Some are more active than others, and all are in different length and content formats and with different audiences. Feel free to add to the list, and enjoy your listening! If the last episode is within the current year it is marked _Active_. 
+A list of EO, Geo and geo-related podcasts. Some are more active than others, and all are in different length and content formats and with different audiences. Feel free to add to the list, and enjoy your listening! If the last episode is within the last 3 months it is marked _Active_. 
 
 ## Earth observation
 * __Scene From Above__
   * [scenefromabove.org](https://scenefromabove.org)
   * A show that brings you informal discussions about the cool things in the world of Earth observation.
-  * _Active_
 * __Eyes on Earth__
   * [www.usgs.gov/centers/eros/science/eyes-earth](https://www.usgs.gov/centers/eros/science/eyes-earth)
   * Eyes on Earth is a podcast on remote sensing, Earth observation, land change and science, brought to you by the USGS Earth Resources Observation and Science (EROS) Center. 
   *  _Active_
-* __RSPSoc Experiences__
-  * [www.youtube.com/channel/UCwXAnNm8bOW966ug6ZktOaA/videos](https://www.youtube.com/channel/UCwXAnNm8bOW966ug6ZktOaA/videos)
-  * For the benefit of any early career EO/photogrammetry/remote-sensing types who are interested to #getintoEO and wonder what kind of career paths people have, on their way into this industry.. 
 
 ## Geospatial
 * __GeoMob__
@@ -38,7 +34,6 @@ A list of EO, Geo and geo-related podcasts. Some are more active than others, an
 * __Africa GeoConvo__
   * [africageoconvo.com](https://africageoconvo.com)
   * The podcast about geospatial innovations and people doing great things with geospatial technology in Africa.
-  *  _Active_
 * __GIS Directions__
   * [gisdirectionspodcast.podbean.com](https://gisdirectionspodcast.podbean.com)
   * a dynamic mix of industry banter, lively debate, and interesting opinions on every topic under the geospatial sun.
